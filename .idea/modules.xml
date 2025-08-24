@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultipleThreads/MultipleThreads.iml" filepath="$PROJECT_DIR$/MultipleThreads/MultipleThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer-Consumer/Producer-Consumer.iml" filepath="$PROJECT_DIR$/Producer-Consumer/Producer-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 21: Mastering java concurrency and multithreading.iml" filepath="$PROJECT_DIR$/Section 21: Mastering java concurrency and multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shoe-warehouse-fulfillment-center/Shoe-warehouse-fulfillment-center.iml" filepath="$PROJECT_DIR$/Shoe-warehouse-fulfillment-center/Shoe-warehouse-fulfillment-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Starting/Starting.iml" filepath="$PROJECT_DIR$/Starting/Starting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronization/Synchronization.iml" filepath="$PROJECT_DIR$/Synchronization/Synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadChallenge/ThreadChallenge.iml" filepath="$PROJECT_DIR$/ThreadChallenge/ThreadChallenge.iml" />
+    </modules>
+  </component>
+</project>
