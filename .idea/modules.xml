@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MultipleThreads/MultipleThreads.iml" filepath="$PROJECT_DIR$/MultipleThreads/MultipleThreads.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParallelProcesses/ParallelProcesses.iml" filepath="$PROJECT_DIR$/ParallelProcesses/ParallelProcesses.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParallelStreams/ParallelStreams.iml" filepath="$PROJECT_DIR$/ParallelStreams/ParallelStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParallelStreamsAndMore/ParallelStreamsAndMore.iml" filepath="$PROJECT_DIR$/ParallelStreamsAndMore/ParallelStreamsAndMore.iml" />
       <module fileurl="file://$PROJECT_DIR$/Producer-Consumer/Producer-Consumer.iml" filepath="$PROJECT_DIR$/Producer-Consumer/Producer-Consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Producer-consumer-2/Producer-consumer-2.iml" filepath="$PROJECT_DIR$/Producer-consumer-2/Producer-consumer-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SchedulingTasks/SchedulingTasks.iml" filepath="$PROJECT_DIR$/SchedulingTasks/SchedulingTasks.iml" />
